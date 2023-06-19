@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Configuration panel -->
+<banner width = "" height = ""
+		startWith = "1" 
+		random = "false"
+
+		backgroundColor = "0xffffff" 
+		backgroundTransparency = "100"
+		
+		cellWidth = "50"
+		cellHeight = "50"
+		
+		showMinTime = "0.2"
+		showMaxTime = "1.5"
+		
+		blur = "50"
+		netTime = "0.5"
+		alphaNet = "80"
+		netColor = "0x000000"
+		
+		overColor = "0x473C31"
+		normalColor = "0x000000"
+		selectedTextColor = "0xffffff"
+		
+		selectedButtonAlpha = "70"
+		
+		controllerVisible = "true"
+		controllerBackgroundVisible = "true"
+		
+		prevNextVisible = "true"
+		playBtVisible = "true"
+		autoPlay = "true"
+		navigationButtonsColor = "0x1a1a1a"
+		
+		controllerDistanceX = "4"
+		controllerDistanceY = "4"
+		
+		controllerHeight = "20"
+		distanceBetweenControllerElements = "10"
+		distanceBetweenThumbs = "3"
+		
+		itemNumberSize = "14"
+		
+		captionY = "2"
+		captionX = "2"			
+		
+		captionWidth = "525"
+
+
+		
+		loaderColor = "0x000000">
+<!-- End panel -->
+
+
+	<item>
+		<path>../../icon/ran_13903321_1055019984581973_7865645126430922828_n.jpg</path>
+		<title><![CDATA[<font color="#990000">โครงการประชุมเชิงปฏิบัติการการคัดเลือกข้อสอบรายวิชาเลือก หลักสูตรการศึกษานอกระบบระดับการศึกษาขั้นพื้นฐาน พ.ศ.2551 และการคัดเลือกข้อสอบหลักสูตรประกาศนียบัตรวิชาชีพ(ปวช.)</font>]]></title>
+		<caption><![CDATA[<font color="#000033">สำนักงาน กศน.จังหวัดอุดรธานี จัดโครงการประชุมเชิงปฏิบัติการการคัดเลือกข้อสอบรายวิชาเลือก หลักสูตรการศึกษานอกระบบระดับการศึกษาขั้นพื้นฐาน พ.ศ.2551 และการคัดเลือกข้อสอบหลักสูตรประกาศนียบัตรวิชาชีพ(ปวช.) โดยมีบุคลากรเข้าร่วมประชุมจำนวน 102 คน ระหว่างวันที่ 4</font>]]></caption>
+		
+		<target>_blank</target>
+		<link>http://udon.nfe.go.th/?name=news&amp;file=readnews&amp;id=56</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>40</stroke_transparency>
+		
+		<slideshowTime>10</slideshowTime>
+	</item>
+
+
+	<item>
+		<path>../../icon/ran_thum840-img-5f646a5880274ae390d1b52e4f372e5d.jpg</path>
+		<title><![CDATA[<font color="#990000">ประกวดราคาซื้อหนังสือเรียนประจำภาคเรียนที่ ๑/๒๕๕๙ โดยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)</font>]]></title>
+		<caption><![CDATA[<font color="#000033">ผู้สนใจสามารถซื้อเอกสารประกวดราคาอิเล็กทรอนิกส์ ในราคาชุดละ ๑,๐๐๐.๐๐ บาท ได้ทางระบบจัดซื้อจัดจ้างภาครัฐด้วยอิเล็กทรอนิกส์และชำระเงินผ่านทางธนาคาร ในวันที่ ๒๙ กรกฎาคม ๒๕๕๙ ถึงวันที่ ๕ สิงหาคม ๒๕๕๙ โดยดาวน์โหลดเอกสารทางระบบจัดซื้อจัดจ้างภาครัฐด้</font>]]></caption>
+		
+		<target>_blank</target>
+		<link>http://udon.nfe.go.th/?name=news&amp;file=readnews&amp;id=55</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>40</stroke_transparency>
+		
+		<slideshowTime>10</slideshowTime>
+	</item>
+
+
+	<item>
+		<path>../../icon/ran_�й�.jpg</path>
+		<title><![CDATA[<font color="#990000">แนะนำสถานที่พัก จังหวัดอุดรธานี สำหรับการประชุมแนวทางการดำเนินงาน กศน. ปีงบประมาณ พ.ศ.2559 ในเขตพื้นที่ภาคตะวันออกเฉียงเหนือ ในวันที่ 20-21 ตุลาคม 2558</font>]]></title>
+		<caption><![CDATA[<font color="#000033">แนะนำสถานที่พัก จังหวัดอุดรธานี สำหรับการประชุมแนวทางการดำเนินงาน กศน. ปีงบประมาณ พ.ศ.2559 ในเขตพื้นที่ภาคตะวันออกเฉียงเหนือ ในวันที่ 20-21 ตุลาคม 2558</font>]]></caption>
+		
+		<target>_blank</target>
+		<link>http://udon.nfe.go.th/index.php?name=news&amp;file=readnews&amp;id=45</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>40</stroke_transparency>
+		
+		<slideshowTime>10</slideshowTime>
+	</item>
+
+
+	<item>
+		<path>../../icon/ran_����¹ - Copy.jpg</path>
+		<title><![CDATA[<font color="#990000">ประกาศ  เปลี่ยนแปลงสถานที่สอบ การเลือกสรรบุคคลเพื่อจัดจ้างเป็นพนักงานราชการทั่วไป ตำแหน่ง บรรณารักษ์</font>]]></title>
+		<caption><![CDATA[<font color="#000033">ประกาศ  เปลี่ยนแปลงสถานที่สอบ การเลือกสรรบุคคลเพื่อจัดจ้างเป็นพนักงานราชการทั่วไป ตำแหน่ง บรรณารักษ์ เปลี่ยนแปลงสถานที่สอบจากเดิม กศน.อำเภอเมืองอุดรธานี จังหวัดอุดรธานี เปลี่ยนแปลงใหม่เป็น อาคาร 11 ชั้น 1 มหาวิทยาลัยราชภัฎอุดรธานี ในวันเสาร์ที่ 5 กันยายน</font>]]></caption>
+		
+		<target>_blank</target>
+		<link>http://udon.nfe.go.th/?name=news&amp;file=readnews&amp;id=42</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>40</stroke_transparency>
+		
+		<slideshowTime>10</slideshowTime>
+	</item>
+
+
+	<item>
+		<path>../../icon/ran_nfe.jpg</path>
+		<title><![CDATA[<font color="#990000">เรื่อง การเลือกสรรบุคคลเพื่อจัดจ้างเป็นพนักงานราชการทั่วไป ตำแหน่งบรรณารักษ์ เพิ่มเติม</font>]]></title>
+		<caption><![CDATA[<font color="#000033">สำนักงานส่งเสริมการศึกษานอกระบบและการศึกษาตามอัธยาศัยจังหวัดอุดรธานี จึงขอประกาศการเลือกสรรบุคคลเพื่อจัดจ้างเป็นพนักงานราชการทั่วไป ตำแหน่ง บรรณารักษ์ เรื่อง คุณสมบัติเฉพาะตำแหน่งเพิ่มเติม</font>]]></caption>
+		
+		<target>_blank</target>
+		<link>http://udon.nfe.go.th/?name=news&amp;file=readnews&amp;id=40</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>40</stroke_transparency>
+		
+		<slideshowTime>10</slideshowTime>
+	</item>
+
+
+	<item>
+		<path>../../icon/ran_nfe.jpg</path>
+		<title><![CDATA[<font color="#990000">การเลือกสรรบุคคลเพื่อจัดจ้างเป็นพนักงานราชการทั่วไป ตำแหน่งบรรณารักษ์</font>]]></title>
+		<caption><![CDATA[<font color="#000033">ด้วยสำนักงานส่งเสริมการศึกษานอกระบบและการศึกษาตามอัธยาศัยจังหวัดอุดรธานี ประสงค์เลือกสรรบุคคลเพื่อจัดจ้างเป็นพนักงานราชการทั่วไป ตำหน่งบรรณารักษ์ อาศัยอำนาจตามประกาศคณะกรรมการบริหารพนักงานราชการ เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการ</font>]]></caption>
+		
+		<target>_blank</target>
+		<link>http://udon.nfe.go.th/?name=news&amp;file=readnews&amp;id=39</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>40</stroke_transparency>
+		
+		<slideshowTime>10</slideshowTime>
+	</item>
+
+
+	<item>
+		<path>../../icon/ran_111.jpg</path>
+		<title><![CDATA[<font color="#990000">ประกาศสำนักงานปลัดกระทรวงศึกษาธิการ เรื่อง สอบราคาจ้างโครงการปรับปรุงซ่อมแซมห้องประชุมสำนักงาน กศน. จังหวัดอุดรธานี</font>]]></title>
+		<caption><![CDATA[<font color="#000033">ประกาศสำนักงานปลัดกระทรวงศึกษาธิการ</font>]]></caption>
+		
+		<target>_blank</target>
+		<link>http://udon.nfe.go.th/?name=news&amp;file=readnews&amp;id=38</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>40</stroke_transparency>
+		
+		<slideshowTime>10</slideshowTime>
+	</item>
+
+
+	<item>
+		<path>../../icon/ran_111.jpg</path>
+		<title><![CDATA[<font color="#990000">ประกาศสำนักงานปลัดกระทรวงศึกษาธิการ เรื่อง สอบราคาจ้างโครงการปรับปรุงซ่อมแซมห้องประชุมสำนักงาน กศน. จังหวัดอุดรธานี</font>]]></title>
+		<caption><![CDATA[<font color="#000033">ประกาศสำนักงานปลัดกระทรวงศึกษาธิการ</font>]]></caption>
+		
+		<target>_blank</target>
+		<link>http://udon.nfe.go.th/?name=news&amp;file=readnews&amp;id=38</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>40</stroke_transparency>
+		
+		<slideshowTime>10</slideshowTime>
+	</item>
+
+
+	<item>
+		<path>../../icon/ran_10422974_353565218187753_92844965758882598_n.jpg</path>
+		<title><![CDATA[<font color="#990000">พิธีเฉลิมพระเกียรติสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี</font>]]></title>
+		<caption><![CDATA[<font color="#000033">พิธีเฉลิมพระเกียรติสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี เนื่องในโอกาสมหามงคลเฉลิมพระชนมายุ ๖ รอบ ๒ เมษายน ๒๕๕๘ ณ เวทีกลางห้องสมุดประชาชน เฉลิมราชกุมารี จังหวัดอุดรธานี  สำนักงาน กศน. จังหวัดอุดรธานี</font>]]></caption>
+		
+		<target>_blank</target>
+		<link>http://udon.nfe.go.th/?name=news&amp;file=readnews&amp;id=37</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>40</stroke_transparency>
+		
+		<slideshowTime>10</slideshowTime>
+	</item>
+
+
+	<item>
+		<path>../../icon/ran_IMG_6738.JPG</path>
+		<title><![CDATA[<font color="#990000">ประชุม</font>]]></title>
+		<caption><![CDATA[<font color="#000033">กลุ่มสำนักงาน กศน.จังหวัด ภูธานี</font>]]></caption>
+		
+		<target>_blank</target>
+		<link>http://udon.nfe.go.th/index.php?name=news&amp;file=readnews&amp;id=36</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>40</stroke_transparency>
+		
+		<slideshowTime>10</slideshowTime>
+	</item>
+
+</banner>
